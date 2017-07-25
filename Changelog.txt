@@ -1,4 +1,39 @@
-Version 0.01
+Version 0.02
+
+
+Sbtech
+	What up bitch!!! Alright, don't expect too much tonight 7-24-17. I guess let’s focus on the pseudocode and 		logic before we start coding. I was thinking about doing it a few different ways. We have to break the code up 		into two main parts. X86 and X64. Now, with that being said, we can do, ...
+	
+			if x86
+				do blah blah 
+			else 
+				do x64
+			
+		Or we can do 
+	
+			if x86
+				do blah blah
+			else
+				break
+			
+			if x64
+				do haha
+			else 
+				break
+	
+	
+	The first one can put both types in each condition. Or we can we can make one main focus scope/function to focus only 	      on x86 and another one to focus on x64. We can go both ways but I guess this is where engineers and programmers    	 separate. We need to figure out what we what to do with program. What are the min's and the maxes with it. Let's start 	small, but a solid platform so we can build if need be. What I would like it to do is 
+	
+		1.) Create the SBAdmin account, prompt for the password.
+		2.) Change the power settings to high performance.
+		3.) Disable sleep and shut down by user.
+		4.) Disable the cmd for users
+		5.) Install Java, Silverlight, and Adobe reader
+		
+	If we can start with creating users and power settings, I believe that will be a great start to be honest. Please give 	       me your honest opinion on what you think. Logically, think through what you and I do on a daily basis. Once we can get 	      solid start, we will have a nice foundation for other programs. Thank you Will!
+
+	
+	
 SBTech5
 	Created program file as sbco.cmd
 	
